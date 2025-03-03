@@ -1,0 +1,13 @@
+[package]
+name = "tgreet"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.96"
+mpris = "2.0.1"
+owo-colors = "4.2.0"
+
+[[bin]]
+name = "tgreet"
+path = "src/main.rs"
