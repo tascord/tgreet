@@ -2,6 +2,8 @@
 name = "tgreet"
 version = "0.1.0"
 edition = "2024"
+description = "Terminal greeter that integrates with spotify"
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0.96"
